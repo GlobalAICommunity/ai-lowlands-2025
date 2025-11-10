@@ -1,3 +1,3 @@
-AI Lowlands 2025 assets
+# AI Lowlands 2025 assets
 
-Find your social banner here
+Find your social banner [here](/banners)
